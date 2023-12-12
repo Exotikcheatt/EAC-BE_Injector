@@ -1,0 +1,4 @@
+cmd: sc create test binPath= "D:\スタッフ\Coding\ノーティカルスタッフ\cheatsHyper\r6\KernelInjector\Signed Driver\lansvcwdk.sys" type= kernel
+
+then: 
+sc start test
